@@ -1,0 +1,20 @@
+**Digital Object** means any digital data string, record or unit of account which is recognised by the Protocol Rules of a Digital Object Network as capable of:
+
+1.	being uniquely associated with (or “owned”) by a particular Digital Address at any one time (including by reference to the relevant timechain or block height, if applicable); and
+2.	being uniquely associated with (or “controlled”) by a particular digital string (including a private key or group of private keys) at any one time, such that the associated digital data string (or a data string derived from it) is required to effect any state change (including any Transfer) to the Digital Object Network.
+
+**Confirmed** means a change of state of the distributed digital ledger or digital data structure in accordance with the Protocol Rules of the Digital Object Network which has become probabilistically irreversible.
+
+**Digital Address** means a particular digital data string (including a public-key address) which is recognised by the relevant Digital Object Network.
+
+**Digital Object Network** means a distributed digital ledger or digital data structure in which consensus as to the state of the distributed digital ledger or digital data structure is determined in accordance with the Protocol Rules of that Digital Object Network.
+
+**Protocol Rules** means a mathematically verifiable and fault-tolerant process which is followed by participating nodes in the Digital Object Network.
+
+A **Transfer** of a Digital Object to a given Digital Address will be deemed to have occurred if:
+
+1.	a new transfer function has been submitted to the Digital Object Network that:
+   (A) provides for the re-association of Digital Object with the receiving Digital Address (such “re-association” to include any replacement, modification, destruction, cancellation, or elimination of a Digital Object which results in a corresponding derivative creation and acquisition of a new Digital Object or a or derivative of that Digital Object); and
+   (B) is signed by a particular digital or electronic data string (including a private key or group of private keys) which is recognised by the relevant Digital Object Network as sufficient to authorize the execution of such transfer function; and
+
+2.such transaction is Confirmed.
