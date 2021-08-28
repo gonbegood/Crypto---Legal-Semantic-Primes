@@ -1,0 +1,39 @@
+**Attaching rights or interests to a Digital Object**
+
+A Digital Object is an independent data structure. This data structure can be the object of property rights that exists separately to any underlying right or interest (including a property right to an underlying asset).
+
+A digital object can be “attached”, “linked”, “tethered” or “stapled” to underlying rights or interests. The classic example is an NFT linked to a JPEG file hosted elsewhere. 
+
+What does this “attaching” or “linking” entail? It is simply any legal act that attaches a right or interest to the data object. There are multiple ways to achieve this link.
+
+**1.	A statute provides for the relationship via a statutory “attachment” or “link”**
+
+A statute might include a statutory “attachment” or “link” between the digital object and the underlying right or interest, such that when the digital object is transferred, the underlying right or interest is transferred. An example of this is Article 7 (Effects of Disposal) of the contained in the Liechtenstein Tokens and TT Service Provider Act.
+
+**2.	A statute provides that the digital object serves as a statutory register/record**
+
+A statute might include a statutory provision that the relevant digital object constitutes a statutory register/record of title. 
+If the underlying distributed digital ledger or digital data structure acts as a statutory records, then the effect of a state change is whatever the statute provides. An example of this already exists with registered shares in Delaware. 
+If real estate were to be “tokenised”/”NFT’d”, a statute might provide that the distributed digital ledger or digital data structure could function as the land register.   
+The digital object that constituted the “record” need not be distributed among participants/owners of the underlying right or interest. A third-party register/record keeper might instead hold all the digital object “records”.  
+
+**3.	Statute provides that the digital object “embodies” the underlying right or interest**
+
+A statute might include a provision which accepts that the digital object “embodies” the underlying right or interest. 
+This would be similar to the “documentary intangible” relationship that is used in merchant shipping for bills of lading etc. For example, the statute might provide that the “bill of lading” was the digital object itself. 
+
+**4.	The parties might agree that the digital object “embodies” the underlying right or interest**
+
+Instead of the “documentary intangible” relationship arising by way of stature, it could arise by way of market practice and/or a separate contractual agreement between the parties. This might be a more difficult argument to make, given the short period of time in which NFT have enjoyed mainstream adoption.  
+
+**5.	Distributed digital ledger or digital data structure provides evidence of the title to the underlying right or interest**
+
+This is the most likely default option. It is simply that the distributed digital ledger or data structure provides (rebuttable) evidence of the underlying right or interest. How strong the evidence would be would depend on the arrangement between the parties and the nature of the underlying right or interest.
+
+Examples could be:
+
+1.	In a note issue where the terms of the notes specified that coupon and capital was only payable to either the address that the digital object was linked to or the controller of the digital object.   
+
+2.	With physical items where a digital signature associated with or derived from the digital object was required to unlock/release the physical item from its contractually agreed and secure location.
+
+3.	From intention of the parties. For example, with many existing NFTs, from before it is created the digital object data structure is intended for transfer and created for transfer, based on the notional relationship between the data structure and the digital JPEG that it represents. The JPEG it represents may or may not be hashed to the digital object. Other rights (such as copyright/use rights) may also be specifically referred to by the creators. In this scenario, many identifiable factual circumstances evidence the relationship. For example, the use of the relevant protocol layer, use of the relevant smart contract (e.g. ERC-20, ERC 721), the white paper or roadmap (if any), the artist and developer statements, the actions of the digital object community (e.g. via Discord announcements/discussions etc). These largely self-sufficient and self-regulating organised systems are adaptive and efficient in solving technological and security challenges. There is a good argument that within these structures “established mercantile usage” arises by virtue of the combination of the factual contractual layers (contracts, protocol rules etc) and the social contract layers (participation by the community, reversing failed mints etc). 
